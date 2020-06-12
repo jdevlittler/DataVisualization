@@ -1,0 +1,33 @@
+Hardware and Software required:
+
+Oculus Rift with sensors and controllers.
+Oculus software
+Unity 2019.3.0f6
+Unity Hub
+Visual Studio 2019
+
+Procedure of use:
+Set up Oculus Rift accordingly. If you haven't done this before, run the Oculus software and follow its
+	instructions. Configure headset and controllers to your body.
+
+Run the executable in project folder. The PC monitor will turn black, this is normal,
+	put on the headset and software will run.
+
+
+CONTROLLERS:
+
+Move and rotate the camera using controller joysticks.
+
+SELECT: Use the A button on the primary controller to select data game objects.
+REMOVE: Use the B button on the primary controller to delete a data game object.
+
+
+Unity:
+To browse through source code follow these instructions:
+
+1. Unzip the NPC.05 folder to place of choice.
+2. Open Unity Hub, making sure you have the most up to date version of Unity installed.
+3. Click "Add" in the high right corner. Import NPC.05 folder.
+4. Search for the project folder. This should be on the right side of the screen if saved correctly.
+5. In Projects/Assets/Scripts you will find 3 folders. Inside these are the scripts I made to build the application.
+6. Open script of choice, I used visual studio 2019 as my editor.
